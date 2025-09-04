@@ -12,6 +12,7 @@ Podívejte se na informační systém na stránce [https://futejok.eu/infosystem
  - přihlaste se jako admin a vytvořte jeden studentský a jeden učitelský účet
 	 - studentský účet by jako *Přihlašovací jméno* měl mít vaše křestní jméno, heslo zvolte libovolné (napište ho do textového soubouru, který odevzdáte v MS Teams)
 	 - učitelský účet by jako *Přihlašovací jméno* měl mít vaše příjmení, heslo opět zvolte libovolné (také ho napište do souboru)
+    - učitelskému i studentskému účtu přidejte jednu hodinu do rozvrhu 
  - pod vaším učitelským účtem přidejte jedno oznámení (libovolné, ale týkající se školy) a přidejte vašemu studentskému účtu libovolný počet známek
  - pod vaším studentským účtem udělejte snímek nástěnky, kde bude vidět oznámení a známky, které jste přidali
  - do souboru s přístupovými údaji sepište, co všechno umí studenstký, učitelský a admin účet
