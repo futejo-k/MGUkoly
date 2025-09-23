@@ -30,7 +30,7 @@ Podívejte se na informační systém na stránce [https://futejok.eu/infosystem
  - přihlaste se jako student (přihlašovací údaje viz. Teams) a projděte si systém
  - přihlaste se jako učitel (přihlašovací údaje viz. Teams) a zadejte ukázkovému studentovi novou známku
  - přihlaste se jako admin a vytvořte jeden studentský a jeden učitelský účet
-	 - studentský účet by jako *Přihlašovací jméno* měl mít vaše křestní jméno, heslo zvolte libovolné (napište ho do textového soubouru, který odevzdáte v MS Teams)
+	 - studentský účet by jako *Přihlašovací jméno* měl mít vaše křestní jméno (pokud je vás ve tříde více se stejným jménem, zadejte i jedno až dvě písmena příjmení), heslo zvolte libovolné (napište ho do textového soubouru, který odevzdáte v MS Teams)
 	 - učitelský účet by jako *Přihlašovací jméno* měl mít vaše příjmení, heslo opět zvolte libovolné (také ho napište do souboru)
  - pod vaším učitelským účtem přidejte jedno oznámení (libovolné, ale týkající se školy) a přidejte vašemu studentskému účtu libovolný počet známek
  - pod vaším studentským účtem udělejte screenshot (WIN+Shift+S) nástěnky, kde bude vidět oznámení a známky, které jste přidali
