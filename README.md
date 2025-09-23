@@ -35,6 +35,7 @@ Podívejte se na informační systém na stránce [https://futejok.eu/infosystem
  - pod vaším učitelským účtem přidejte jedno oznámení (libovolné, ale týkající se školy) a přidejte vašemu studentskému účtu libovolný počet známek
  - pod vaším studentským účtem udělejte screenshot (WIN+Shift+S) nástěnky, kde bude vidět oznámení a známky, které jste přidali
  - do souboru s přístupovými údaji sepište, co všechno umí studenstký, učitelský a admin účet
+ - v textu také popište rozdíly rolí v tomto systému a napište, jaké další role byste přidali
  - **Bonus 1**: zkuste nějakou formou znázornit propojení jednotlivých funkcí systému
  - **Bonus 2**: Systém není plně funkční, které funkce byste do systému přidali?
  - **Bonus 3**: Je tam něco schované?
