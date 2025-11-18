@@ -53,6 +53,7 @@ Za úkol lze získat až 2 známky - klasickou aktivitu (za odfláknutý úkol z
 ## Úkol 3 - Zpracování dat
 ### Úkol 1
 Podívejte se na tento obrázek:
+![Soubor dat ke zpracování](IMG/data.jpg)
 
 Data z obrázku zpracujte do tabulky v Excelu, následně si najděte, jak se v Excelu dělají z tabulky grafy (!!!BEZ POUŽITÍ AI!!!) a z tabulky vytvořte graf/grafy.
 
