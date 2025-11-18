@@ -48,3 +48,22 @@ Pokud děláte **bonusové úkoly** odevzdejte je jako samostatné soubory.
 Dokument může být buď ve formátu `.txt` nebo `.docx`, záleží na vás, zda chcete pracovat ve Wordu nebo Poznámkovém bloku.
 
 Za úkol lze získat až 2 známky - klasickou aktivitu (za odfláknutý úkol známka nebude) a známku za splněné bonusy.
+
+
+## Úkol 3 - Zpracování dat
+### Úkol 1
+Podívejte se na tento obrázek:
+
+Data z obrázku zpracujte do tabulky v Excelu, následně si najděte, jak se v Excelu dělají z tabulky grafy (!!!BEZ POUŽITÍ AI!!!) a z tabulky vytvořte graf/grafy.
+
+### Úkol 2
+Vyberte si jedno z následujících témat:
+- zvířata
+- auta
+- jídlo a pití
+- knihy
+- hry
+V rámci tématu vymyslete tři až čtyři otázky, ve které je na výběr mezi dvěmi až třemi možnožnostmi (například: `Máš radši svíčkovou, vepřo knedlo zelo, nebo řízek?`). Na otázky se poté budete ptát svých spolužáků a zapisovat si, kolik hlasů získali jednotlivé odpovědi. Následně ke každé otázce vytvořte tabulku a graf.
+
+### Výstup z hodiny
+Na konci hodiny do Teams zadání odevzdejte jeden **Excel soubor**, ve kterém budou dvě záložky - úkol 1 a úkol 2.
