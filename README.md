@@ -64,7 +64,8 @@ Vyberte si jedno z následujících témat:
 - jídlo a pití
 - knihy
 - hry
-V rámci tématu vymyslete tři až čtyři otázky, ve které je na výběr mezi dvěmi až třemi možnožnostmi (například: `Máš radši svíčkovou, vepřo knedlo zelo, nebo řízek?`). Na otázky se poté budete ptát svých spolužáků a zapisovat si, kolik hlasů získali jednotlivé odpovědi. Následně ke každé otázce vytvořte tabulku a graf.
+
+V rámci tématu vymyslete tři až čtyři otázky, ve které je na výběr mezi dvěmi až třemi možnožnostmi (například: `Máš radši svíčkovou, vepřo knedlo zelo, nebo řízek?`). Na otázky se poté budete ptát svých spolužáků a zapisovat si, kolik hlasů získali jednotlivé odpovědi. Následně ke každé otázce vytvořte tabulku a graf, otázku vždy k tabulce a grafu připište.
 
 ### Výstup z hodiny
 Na konci hodiny do Teams zadání odevzdejte jeden **Excel soubor**, ve kterém budou dvě záložky - úkol 1 a úkol 2.
